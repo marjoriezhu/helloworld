@@ -1,5 +1,3 @@
-- delete the file of hello.txt in add-delete/resources/randy
-- change user's password in update/user.sql
 - add any one of your source code file into update/ direcotry 
 - delete one file in add-delete/resources folder
 - add one line sql in update/user.sql
