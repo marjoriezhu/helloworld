@@ -1,0 +1,10 @@
+the name of this project is Playground
+
+it is for internal use of practicing Git
+
+last modified date: 2012-09-10
+
+who has views this file?
+ - Sherlock
+ - Eric
+ - Vincent email:vincent@originatechina.com
